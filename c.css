@@ -1,0 +1,10 @@
+th {
+	font-weight: bold;
+	padding: 5px;
+	background: #efefef;
+	border: 1px solid #dddddd;
+}
+td {
+	border: 1px solid #dddddd;
+	padding: 5px;
+}
